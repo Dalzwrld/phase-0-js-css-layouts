@@ -32,3 +32,11 @@
     height: auto;
     border-radius: 8px;
 }
+
+h3 {
+    margin: 0.5em 0;
+}
+
+p {
+    margin: 0.5em 0 1em;
+}
