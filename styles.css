@@ -20,4 +20,9 @@
     overflow: hidden;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     text-align: center;
+    transform: transform 0.3s ease;
+}
+
+.cat-breed:hover {
+    transform: scale(1.05);
 }
