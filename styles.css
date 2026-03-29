@@ -26,3 +26,9 @@
 .cat-breed:hover {
     transform: scale(1.05);
 }
+
+.cat-breed img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
